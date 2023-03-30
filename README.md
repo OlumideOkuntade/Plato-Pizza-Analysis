@@ -17,15 +17,15 @@ The dataset consist of four different tables in CSV format which was provided by
 3. The Pizzas table contains the size and the price of each distinct pizza in the Order Details table, as well as its broader pizza type.
 4. The Pizza Type table contains details on the pizza types in the Pizza table, including their name as it appears on the menu, the category it falls under and its list of ingredients.
 
- For this challenge, the task is to build a single-page dashboard to help improve the restaurant operations. The question answered include;
+ **For this challenge, the task is to build a single-page dashboard to help improve the restaurant operations. The question answered include;
 . What day and times do we tend to be busiest?
 . How many Pizzas are we making during peak period?
 . What are our best and worst selling pizza?
-. What’s our average order value?
+. What’s our average order value?**
 
 ## Action
 
-For this analysis, I used Power BI to create relationship between tables, build interactive dashboard, model data, create charts and visualization. After analyzing the dataset I was able to identify important points that will lead to increase in sales, productivity and cost effectiveness. Below list some of the highlights of my analysis while others can be further explored on the final dashboard.
+**For this analysis, I used Power BI to create relationship between tables, build interactive dashboard, model data, create charts and visualization. After analyzing the dataset I was able to identify important points that will lead to increase in sales, productivity and cost effectiveness. Below list some of the highlights of my analysis while others can be further explored on the final dashboard.**
 
 ###### Data Modeling
 Power BI intellisense automatically join tables by creating relationships, However understanding primary and foreign keys in tables allows you to manually create table relationships to get the required insights and result in your model. This is a star schema model in Power BI.
