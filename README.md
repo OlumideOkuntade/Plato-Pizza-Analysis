@@ -45,8 +45,19 @@ To get the required calculations, different DAX measures are created and inputte
 ![](average_per_order.PNG)     |     ![](revenue.PNG)     |  ![](order_image.PNG)  
  
  ###### Altering Opening time hours
+In order to save cost of production and increase revenue, it is advised from the heatmap visual to alter opening time period from 11:00–13:00. As seen in the visual, more orders are generated within this time period. 9:00–10:00 generated 10 orders i.e 0.042% and 11:00–13:00 hour generated 6,206 order i.e 29% against total order for the week. Opening between 11:00–13:00 is no doubt cost effective.
 
- 
+![](heatmap.PNG)
+
+###### Run promotion or discount at Q3 & Q4
+The chart below compares total orders and revenue by quarter. It is assume that there is a similarity between these two charts meaning that for every increase in orders , there is subsequent increase in revenue per quarter except in Q3 revenue chart, where there was a decline despite increase in orders. Drilling down by month shows a decline in revenue in August sales as compared to the increase in order of the same month. Promotions or discount should be introduced to help increase revenue.
+
+![](chart_image.PNG)
+
+## Result
+A dashboard was created below that highlight specific point of improvement and solutions to improve revenue and increase sales order at Plato Pizza and can be used to scale-up any business aimed at increasing productivity.
+
+![](dashboard.jpeg)
 
 
 
