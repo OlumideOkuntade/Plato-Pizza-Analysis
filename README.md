@@ -22,3 +22,7 @@ The dataset consist of four different tables in CSV format which was provided by
 . How many Pizzas are we making during peak period?
 . What are our best and worst selling pizza?
 . What’s our average order value?
+
+## Action
+
+For this analysis, I used Power BI to create relationship between tables, build interactive dashboard, model data, create charts and visualization. After analyzing the dataset I was able to identify important points that will lead to increase in sales, productivity and cost effectiveness. Below list some of the highlights of my analysis while others can be further explored on the final dashboard.
