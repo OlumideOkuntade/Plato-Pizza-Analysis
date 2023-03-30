@@ -58,6 +58,12 @@ The chart below compares total orders and revenue by quarter. It is assume that 
 A dashboard was created below that highlight specific point of improvement and solutions to improve revenue and increase sales order at Plato Pizza and can be used to scale-up any business aimed at increasing productivity.
 
 ![](dashboard.jpeg)
+To conclude, some of the highlight of this analysis include:
+1. At month/quarter where revenue is low, introduce discount or promotion to increase revenue.
+2. For top sales and order product, increase the price of purchase and sensitize product with low offtake.
+3. To reduce cost of production, alter opening hours to where sales is at maximum.
+4. Introduce others sizes for product with high average sales per order.
+The dashboard above is all you need to boost sales and improve cost productivity and can be adopted by any business aimed at increasing their productivity.
 
 
 
