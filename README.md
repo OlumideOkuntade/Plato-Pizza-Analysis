@@ -44,6 +44,7 @@ To get the required calculations, different DAX measures are created and inputte
 :-----------------------------:| :---------------------:  | :---------------------: 
 ![](average_per_order.PNG)     |     ![](revenue.PNG)     |  ![](order_image.PNG)  
  
+ ###### Altering Opening time hours
 
  
 
